@@ -14,8 +14,8 @@ The next button releavies the teabag (Green LED turns OFF).
 Now you can do it again.
 
 If you wanna give me feedback or talk about it: teamakerpico@herrmannsven.de
-![IMG_5036-min](https://user-images.githubusercontent.com/19588101/128409143-ec9fdb10-6f0b-4f4d-bbab-64c8db2cc5b6.png)
-![IMG_5039-min](https://user-images.githubusercontent.com/19588101/128409155-dc29b0ca-d84a-4191-a45e-e04445419ce2.png)
-![IMG_4976-min](https://user-images.githubusercontent.com/19588101/128409163-71dc274c-17cf-4c23-9fc4-8c4217316e4f.png)
-![IMG_4974-min](https://user-images.githubusercontent.com/19588101/128409174-d6975838-cc57-42da-a289-f47bab030841.png)
-![IMG_4973-min](https://user-images.githubusercontent.com/19588101/128409185-fae140cd-22a2-4bd6-9358-98acfd8b98a5.png)
+![IMG_5036-min](https://user-images.githubusercontent.com/19588101/128409143-ec9fdb10-6f0b-4f4d-bbab-64c8db2cc5b6.png){:height="50%" width="50%"}
+![IMG_5039-min](https://user-images.githubusercontent.com/19588101/128409155-dc29b0ca-d84a-4191-a45e-e04445419ce2.png){:height="50%" width="50%"}
+![IMG_4976-min](https://user-images.githubusercontent.com/19588101/128409163-71dc274c-17cf-4c23-9fc4-8c4217316e4f.png){:height="50%" width="50%"}
+![IMG_4974-min](https://user-images.githubusercontent.com/19588101/128409174-d6975838-cc57-42da-a289-f47bab030841.png){:height="50%" width="50%"}
+![IMG_4973-min](https://user-images.githubusercontent.com/19588101/128409185-fae140cd-22a2-4bd6-9358-98acfd8b98a5.png){:height="50%" width="50%"}
